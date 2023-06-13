@@ -1,0 +1,1 @@
+Jetson nano does not support game simulator RetroPie
